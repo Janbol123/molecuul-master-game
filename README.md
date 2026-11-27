@@ -5,7 +5,7 @@
 
 ## Hoofdissues
 - [D) https://github.com/Janbol123/molecuul-master-game/issues/7
-- [E) Bouw en eerste tests](https://github.com/TEAM/REPO/issues/NUMMER-E)
+- [E) https://github.com/Janbol123/molecuul-master-game/issues/8
 - [I) Verbetering en hertests](https://github.com/TEAM/REPO/issues/NUMMER-I)
 - [M) Uitleg en samenwerking](https://github.com/TEAM/REPO/issues/NUMMER-M)
 
