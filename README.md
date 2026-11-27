@@ -6,7 +6,7 @@
 ## Hoofdissues
 - [D) https://github.com/Janbol123/molecuul-master-game/issues/7
 - [E) https://github.com/Janbol123/molecuul-master-game/issues/8
-- [I) Verbetering en hertests](https://github.com/TEAM/REPO/issues/NUMMER-I)
+- [I)https://github.com/Janbol123/molecuul-master-game/issues/9
 - [M) Uitleg en samenwerking](https://github.com/TEAM/REPO/issues/NUMMER-M)
 
 ## Zo gebruik je het
