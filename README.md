@@ -1,7 +1,7 @@
- # [Productnaam]
+ # [Ruk en pluk]
 
 ## Klantwens
-[Wie is de klant en wat wil die kunnen doen?]
+[De klant is de eigenaar van het cafe ruk en pluk. jaap heijden. hij wilt graag een website voor zijn cafe en in een bruine gezellige kroeg sfeer]
 
 ## Hoofdissues
 - [D) Klantvraag en ontwerp](https://github.com/TEAM/REPO/issues/NUMMER-D)
